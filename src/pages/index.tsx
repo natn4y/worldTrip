@@ -3,6 +3,7 @@ import type { NextPage } from "next";
 import { Header } from "../components/Header";
 import { Banner } from "../components/Banner/index";
 import { Caracteristicas } from "../components/Caracteristicas";
+import { Separator } from "../components/Separator";
 
 const Home: NextPage = () => {
   return (
@@ -12,6 +13,7 @@ const Home: NextPage = () => {
       </Flex>
       <Banner />
       <Caracteristicas />
+      <Separator />
     </>
   );
 };
