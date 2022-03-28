@@ -14,23 +14,23 @@ export function Caracteristicas() {
       gap={[1, 5]}
     >
       <GridItem>
-        <Caracteristica icon="cocktail" text="vida noturna" />
+        <Caracteristica icon="cocktail" text="Vida noturna" />
       </GridItem>
 
       <GridItem>
-        <Caracteristica icon="surf" text="praia" />
+        <Caracteristica icon="surf" text="Praia" />
       </GridItem>
 
       <GridItem>
-        <Caracteristica icon="building" text="moderno" />
+        <Caracteristica icon="building" text="Moderno" />
       </GridItem>
 
       <GridItem>
-        <Caracteristica icon="museum" text="clássico" />
+        <Caracteristica icon="museum" text="Clássico" />
       </GridItem>
 
       <GridItem colSpan={[2, 2, 2, 1]}>
-        <Caracteristica icon="earth" text="e mais..." />
+        <Caracteristica icon="earth" text="e Mais..." />
       </GridItem>
     </Grid>
   );
