@@ -20,7 +20,7 @@ export function Content() {
       >
         A Europa é, por convenção, um dos seis continentes
         do mundo. Compreendendo a península ocidental da
-        Eurásia. o Cáucaso, e o mar a sudeste
+        Eurásia. o Cáucaso, e o mar a sudeste.
       </Text>
       <Infos />
     </Grid>

@@ -33,7 +33,7 @@ export function Infos() {
           fontSize={["md", "xl"]}
           color="gray.700"
         >
-          países
+          Países
         </Text>
       </Flex>
 
@@ -54,7 +54,7 @@ export function Infos() {
           fontSize={["md", "xl"]}
           color="gray.700"
         >
-          línguas
+          Línguas
         </Text>
       </Flex>
       <Flex
@@ -74,7 +74,7 @@ export function Infos() {
           fontSize={["md", "xl"]}
           color="gray.700"
         >
-          <span>cidades +100</span>
+          <span>Cidades +100</span>
           <Popover>
             <PopoverTrigger>
               <span>
@@ -95,7 +95,7 @@ export function Infos() {
               <PopoverArrow bg="gray.700" />
               <PopoverCloseButton />
               <PopoverBody fontWeight="400" fontSize="lg">
-                Paris, Europa, Chile, Canadá, China
+                Paris, Europa, Chile, Canadá, China...
               </PopoverBody>
             </PopoverContent>
           </Popover>
