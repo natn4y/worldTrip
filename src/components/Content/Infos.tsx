@@ -24,12 +24,12 @@ export function Infos() {
         <Heading
           fontSize={["2xl", "5xl"]}
           color="yellow.400"
-          fontWeight="600"
+          fontWeight="500"
         >
           50
         </Heading>
         <Text
-          fontWeight="600"
+          fontWeight="500"
           fontSize={["md", "xl"]}
           color="gray.700"
         >
@@ -45,7 +45,7 @@ export function Infos() {
         <Heading
           fontSize={["2xl", "5xl"]}
           color="yellow.400"
-          fontWeight="600"
+          fontWeight="500"
         >
           60
         </Heading>
